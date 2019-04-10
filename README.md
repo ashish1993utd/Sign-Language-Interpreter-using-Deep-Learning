@@ -56,8 +56,8 @@ This will help you in installing all the libraries required for the project.
 ## Process
 
 * Run `set_hand_histogram.py` to set the hand histogram for creating gestures. 
-* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
-* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
+* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
+* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
 * Add different variations to the captured gestures by flipping all the images by using `Rotate_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
 * To view all the gestures, run `display_gestures.py` .
@@ -164,5 +164,6 @@ Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You ca
 Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Harsh Gupta](https://github.com/harshbg), and [Manish Shukla](https://github.com/Manishms18).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="nick22910@gmail.com" target="_blank">email</a> or 
+just want to shoot a question, please feel free to connect with me on 
+<a href="mailto:nick22910@gmail.com">email</a> or 
 <a href="https://www.linkedin.com/in/ashishsharma1993/" target="_blank">LinkedIn</a>
