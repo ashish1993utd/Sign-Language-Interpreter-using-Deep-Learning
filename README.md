@@ -56,8 +56,8 @@ This will help you in installing all the libraries required for the project.
 ## Process
 
 * Run `set_hand_histogram.py` to set the hand histogram for creating gestures. 
-* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
-* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
+* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning/blob/master/code/hist).
+* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning/blob/master/code/gesture_db.db).
 * Add different variations to the captured gestures by flipping all the images by using `Rotate_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
 * To view all the gestures, run `display_gestures.py` .
