@@ -20,15 +20,15 @@ The theme at HACK UNT 19 was to use technology to improve accessibility by findi
 We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
 
 ## Demo
-![Example screenshot](./img/demo4.gif)
+![Example screenshot](./img/demo.gif)
+
+
+
+![Example screenshot](./img/demo1.gif)
 
 
 
 ![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
 
 
 **The entire demo of the project can be found on [YouTube](http://bit.ly/2Iaz2UK).**
@@ -161,10 +161,8 @@ Features that can be added:
 Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2WWllwg). 
 
 ## Contact
-Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
+Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Harsh Gupta](https://github.com/harshbg), and [Manish Shukla](https://github.com/Manishms18).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
-<a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
-<a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
-My other projects can be found [here](http://bit.ly/2UlyFgC).
+just want to shoot a question, please feel free to connect with me on <a href="nick22910@gmail.com" target="_blank">email</a> or 
+<a href="https://www.linkedin.com/in/ashishsharma1993/" target="_blank">LinkedIn</a>
