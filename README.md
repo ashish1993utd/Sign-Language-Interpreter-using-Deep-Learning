@@ -1,6 +1,6 @@
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera.
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2Iaz2UK).
+The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2ZkhqLz).
 
 ## Table of contents
 * [General info](#general-info)
@@ -31,7 +31,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 ![Example screenshot](./img/demo2.gif)
 
 
-**The entire demo of the project can be found on [YouTube](http://bit.ly/2Iaz2UK).**
+**The entire demo of the project can be found on [YouTube](http://bit.ly/2ZkhqLz).**
 
 
 ## Screenshots
