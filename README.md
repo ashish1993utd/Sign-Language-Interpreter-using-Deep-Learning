@@ -1,3 +1,10 @@
+![Stars](https://img.shields.io/github/stars/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
+![Forks](https://img.shields.io/github/forks/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)
+![Language](https://img.shields.io/github/languages/top/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)
+[![GitHub](https://img.shields.io/github/license/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
+[![HitCount](http://hits.dwyl.io/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning)
+
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera.
 The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2ZkhqLz).
