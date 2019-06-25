@@ -1,6 +1,6 @@
 ![Stars](https://img.shields.io/github/stars/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
 ![Forks](https://img.shields.io/github/forks/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)
+-- ![GitHub contributors](https://img.shields.io/github/contributors/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)
 ![Language](https://img.shields.io/github/languages/top/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning)
