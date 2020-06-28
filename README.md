@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/ashish1993utd/Sign-Language-Interpreter-using-Deep-Learning)
 
-# Sign Language Interpreter using Deep Learnin
+# Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera.
 The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2ZkhqLz).
 
